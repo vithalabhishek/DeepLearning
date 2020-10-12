@@ -32,7 +32,7 @@ pip install pandas
 It is not needed (and discouraged) to install Anaconda as root or administrator.
  > When asked if you wish to initialize Anaconda3, answer yes.
  > Restart the terminal after completing the installation.
- > Detailed instructions on how to install Anaconda can be found in the Anaconda documentation.
+ > Detailed instructions on how to install Anaconda can be found in the Anaconda documentation: https://docs.anaconda.com/anaconda/install/
 
 2. In the Anaconda prompt (or terminal in Linux or MacOS), start JupyterLab.
 
