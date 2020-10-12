@@ -1,6 +1,6 @@
 # Deep  Learning
 
-Libraries 
+Libraries Used :
 
 1. NumPy : NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. Numpy provides a high-performance multidimensional array and basic tools to compute with and manipulate these arrays.
 
