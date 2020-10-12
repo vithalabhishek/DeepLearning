@@ -4,11 +4,11 @@ Libraries
 
 1. NumPy : NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. Numpy provides a high-performance multidimensional array and basic tools to compute with and manipulate these arrays.
 
-# NumPy Installation On Windows Operating System
+## NumPy Installation On Windows Operating System
 
 Python is not installed by default in windows operating system. You can download the required version of python from python.org. Once python is installed successfully, open command prompt and use pip to install numpy.
 
-# NumPy Installation On Mac and Linux Operating System
+## NumPy Installation On Mac and Linux Operating System
 
 Mac and Linux users can install NumPy via pip command:
 pip install numpy
@@ -19,7 +19,7 @@ pip install numpy
 
 In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. 
 
-# Prefer pip?
+## Prefer pip?
 
 Pandas can be installed via pip from PyPI.
 
