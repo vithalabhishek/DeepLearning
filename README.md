@@ -30,9 +30,9 @@ pip install pandas
 1. Download Anaconda for your operating system and the latest Python version, run the installer, and follow the steps. Please note:
 
 It is not needed (and discouraged) to install Anaconda as root or administrator.
- > When asked if you wish to initialize Anaconda3, answer yes.
- > Restart the terminal after completing the installation.
- > Detailed instructions on how to install Anaconda can be found in the Anaconda documentation: https://docs.anaconda.com/anaconda/install/
+ (a) When asked if you wish to initialize Anaconda3, answer yes.
+ (b) Restart the terminal after completing the installation.
+ (c) Detailed instructions on how to install Anaconda can be found in the Anaconda documentation: https://docs.anaconda.com/anaconda/install/
 
 2. In the Anaconda prompt (or terminal in Linux or MacOS), start JupyterLab.
 
