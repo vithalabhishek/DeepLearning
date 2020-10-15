@@ -43,3 +43,10 @@ import pandas
 pandas.__version__
 
 5. Now you are ready to use pandas, and you can write your code in the next cells.
+
+3. Matplotlib : Matplotlib is one of the most popular Python packages used for data visualization. It is a cross-platform library for making 2D plots from data in arrays. It provides an object-oriented API that helps in embedding plots in applications using Python GUI toolkits such as PyQt, WxPythonotTkinter. It can be used in Python and IPython shells, Jupyter notebook and web application servers also.
+
+Matplotlib has a procedural interface named the Pylab, which is designed to resemble MATLAB, a proprietary programming language developed by MathWorks. Matplotlib along with NumPy can be considered as the open source equivalent of MATLAB.
+
+## Prerequisites
+Matplotlib is written in Python and makes use of NumPy, the numerical mathematics extension of Python.
